@@ -26,9 +26,9 @@ inline bool chmin(T &a, T b) {
   return 0;
 }
 
-const int inf = INT_MAX;
+const int inf = 1000000007;
 const int MOD = 1000000007;
-const long long INF = LLONG_MAX;
+const long long INF = 1000000000000000007;
 
 // -------------------------------------------------------
 
